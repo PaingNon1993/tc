@@ -1,14 +1,14 @@
 {
-    "name": "PAING NON",
-    "short_name": "PAING NON",
+    "name": "TC Union HR",
+    "short_name": "TC Union HR",
     "icons": [
       {
-        "src": "Logo 1.0.png",
+        "src": "L55681_logo_20230918131228.webp",
         "sizes": "256x256",
         "type": "image/png"
       },
       {
-        "src": "Logo 1.0.png",
+        "src": "55681_logo_20230918131228.webp",
         "sizes": "512x512",
         "type": "image/png"
       }
@@ -17,7 +17,7 @@
     "categories": ["utilites", "productivity", "calculator"],
     "screenshots" : [
         {
-            "src": "Logo 1.0.png",
+            "src": "55681_logo_20230918131228.webp",
             "sizes": "1280x889",
             "type": "image/jpeg",
             "platform": "wide",
@@ -27,3 +27,4 @@
     "display": "standalone",
     "start_url": "/index/"
 }
+
